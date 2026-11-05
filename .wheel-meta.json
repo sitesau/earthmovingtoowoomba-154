@@ -1,0 +1,22 @@
+{
+  "wheel_id": 752,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-154",
+  "project": "excavation-services-toowoomba-eb2663c377ec9a1442ec12baecac643f9",
+  "parent_t1_ref": "earthmovingtoowoomba-010",
+  "node_role": "buffer",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "excavation services toowoomba",
+  "intended_url": "http://excavation-services-toowoomba-eb2663c377ec9a1442ec12baecac643f9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ff1eefdd72640699",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/excavation-services-toowoomba/",
+      "anchor": "this excavation services toowoomba resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
